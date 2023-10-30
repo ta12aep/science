@@ -1,0 +1,11 @@
+More than merely cracks in the ice, crevasses play an important role in circulating seawater beneath Antarctic ice shelves, potentially influencing their stability, finds Cornell University-led research based on a first-of-its-kind exploration by an underwater robot.
+
+The remotely operated Icefin robot’s climb up and down a crevasse in the base of the Ross Ice Shelf produced the first 3D measurements of ocean conditions near where it meets the coastline, a critical juncture known as the grounding zone.
+The robotic survey revealed a new circulation pattern – a jet funneling water sideways through the crevasse – in addition to rising and sinking currents, and diverse ice formations shaped by shifting flows and temperatures. Those details will improve modeling of ice shelf melting and freezing rates at grounding zones, where few direct observations exist, and of their potential contribution to global sea-level rise.
+
+“Crevasses move water along the coastline of an ice shelf to an extent previously unknown, and in a way models did not predict,” said Peter Washam, a polar oceanographer and research scientist at Cornell University. “The ocean takes advantage of these features, and you can ventilate the ice shelf cavity through them.”
+Washam is the lead author of “Direct Observations of Melting, Freezing and Ocean Circulation in an Ice Shelf Basal Crevasse,” published in Science Advances.
+
+The scientists in late 2019 deployed the Icefin vehicle – roughly 12 feet long and less than 10 inches around – on a tether down a 1,900-foot borehole drilled with hot water, near where Antarctica’s largest ice shelf meets the Kamb Ice Stream. Such so-called grounding zones are key to controlling the balance of ice sheets, and the places where changing ocean conditions can have the most impact.
+
+On the team’s last of three dives, Matthew Meister, a senior research engineer, drove Icefin into one of five crevasses found near the borehole. Equipped with thrusters, cameras, sonar and sensors for measuring water temperature, pressure and salinity, the vehicle climbed nearly 150 feet up one slope and descended the other.
